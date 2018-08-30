@@ -1,0 +1,63 @@
+html {
+    font-family: Helvetica;
+}
+
+.buttonFieldClass {
+    height: 18px;
+    width: 18px;
+    margin-right:5px;
+    border: 1px grey solid;
+}
+
+#gameTable{
+    width:100%;
+}
+
+#msg2User {
+    padding-left:3em;
+    color:red;
+}
+
+#mineCount, #inputSize {
+    width:70px;
+}
+
+#playForm {
+    /*margin-top: 1em;*/
+    border-top: 2px grey solid;
+    padding-top: 1em;
+    padding-left:2em;
+}
+
+#t1ID {
+    width: 100%;
+    padding-left:2em;
+    background-color: azure;
+}
+
+#eingabeForm {
+    padding-left:2em;
+    background-color: azure;
+}
+
+.footer-copyright {
+    margin-left:4em;
+}
+
+#endImg {
+    width:"250px";
+    margin-left: 3em;
+}
+
+#td1ID {
+    width:50%;
+    padding-left:2em;
+}
+
+.page-footer {
+    font-size:10px;
+}
+
+footer {
+    margin-top:3em;
+}
